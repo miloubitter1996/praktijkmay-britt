@@ -1,5 +1,5 @@
 <template>
-  <div class="">
+  <div class="test">
     <v-app-bar class="py-4">
       <v-app-bar-nav-icon></v-app-bar-nav-icon>
 
