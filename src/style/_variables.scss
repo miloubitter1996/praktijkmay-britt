@@ -1,0 +1,31 @@
+// These colors need to mirrored with vuetify.js
+$primary-color: #6e9887;
+$secondary-color: #e4cdc0;
+$accent-color: #be9885;
+$text-color-accent: #8a736d;
+$text-color: #484041;
+// standard
+$accent-color-light: #e94a54;
+$error-color: #ff5252;
+$info-color: #00328e;
+$success-color: #4caf50;
+$warning-color: #ffc107;
+$background-color: #f7f1eb;
+$menu-color: #f4f4f4;
+$disabled-color: #969698;
+
+:export {
+  primary: $primary-color;
+  secondary: $secondary-color;
+  accent: $accent-color;
+  accentLight: $accent-color-light;
+  textAccentColor: $text-color-accent;
+  textColor: $text-color;
+  error: $error-color;
+  info: $info-color;
+  success: $success-color;
+  warning: $warning-color;
+  backgroundColor: $background-color;
+  menuColor: $menu-color;
+  disabledColor: $disabled-color;
+}
