@@ -17,7 +17,7 @@
           <a class="nav-link" href="#section-4">Tarieven</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#section-5">Contact test</a>
+          <a class="nav-link" href="#section-5">Contact</a>
         </li>
       </div>
     </v-app-bar>
